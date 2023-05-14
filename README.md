@@ -1,2 +1,7 @@
 # wp-subscriber-admin-customization
-Change admin color and user profile
+
+This plugin will:
+
+- Redirect subscribers to a custom page
+- Simplify the subscriber's profile
+- Remove notifications from admin
